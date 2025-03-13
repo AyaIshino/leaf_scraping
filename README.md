@@ -1,7 +1,7 @@
 # leaf_scraping
 Cucumber Leaf Scraping Dataset
-<img src="https://github.com/user-attachments/assets/303375de-496e-4e38-a410-b94b5c454c52" width="50%">
-![Image](https://github.com/user-attachments/assets/303375de-496e-4e38-a410-b94b5c454c52)
+
+<img src="https://github.com/user-attachments/assets/303375de-496e-4e38-a410-b94b5c454c52" width="80%">
 
 ※　imageフォルダにサンプルの葉の画像を置いています（2025年3月13日）
 
